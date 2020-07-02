@@ -7,4 +7,4 @@
 ### Triple to Text
 * Neural Wikipedian: Generating Textual Summaries from Knowledge Base Triples, [Paper](https://arxiv.org/abs/1711.00155)
 * GTR-LSTM: A Triple Encoder for Sentence Generation from RDF Data, ACL2018, [Paper](https://www.aclweb.org/anthology/P18-1151.pdf)
-* 
+* Creating Training Corpora for NLG Micro-Planning, ACL2017,[Paper](https://www.aclweb.org/anthology/P17-1017.pdf)
