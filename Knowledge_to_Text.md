@@ -11,4 +11,5 @@
 
 ### Knowledge-Text数据集
 * T-REx: A Large Scale Alignment of Natural Language withKnowledge Base Triples, [Paper](https://www.aclweb.org/anthology/L18-1544.pdf), [Dataset](https://w3id.org/t-rex)
-* 
+* WIKIREADING: A Novel Large-scale Language Understanding Taskover Wikipedia, [Paper](https://www.aclweb.org/anthology/P16-1145.pdf), [Dataset](http://goo.gl/wikireading)
+
