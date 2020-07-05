@@ -21,6 +21,13 @@
 * 
 
 ### 关系分类/关系抽取
+* 给定一个句子和句子中的两个实体，判断两个实体之间的关系。
+* 数据集
+  * TACRED
+  > * Position-aware Attention and Supervised Data Improve Slot Filling. [Paper](https://www.aclweb.org/anthology/D17-1004.pdf)
+  > * 42个关系，106,264个句子
+  
+
 
 
 ### Entity Typing
