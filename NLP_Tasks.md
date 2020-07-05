@@ -16,6 +16,11 @@
   * SearchQA: 
   > * SearchQA: A New Q&A Dataset Augmented with Context from a Search Engine. [Paper](https://arxiv.org/pdf/1704.05179.pdf)
 
+* NewsQA
+* TriviaQA
+* HotpotQA
+* NaturalQA
+
 ### Probing
 * 数据集
   * LAMA: 
