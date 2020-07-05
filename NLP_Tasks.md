@@ -17,8 +17,11 @@
   > * SearchQA: A New Q&A Dataset Augmented with Context from a Search Engine. [Paper](https://arxiv.org/pdf/1704.05179.pdf)
 
 ### Probing
-* Negated LAMA: Birds cannot fly. [Paper](https://arxiv.org/abs/1911.03343)
-* 
+* 数据集
+  * LAMA: 
+  > * Language Models as Knowledge Bases? [Paper](https://www.aclweb.org/anthology/D19-1250.pdf)
+  * Negated LAMA: Birds cannot fly. [Paper](https://arxiv.org/abs/1911.03343)
+  * 
 
 ### 关系分类/关系抽取
 * 给定一个句子和句子中的两个实体，判断两个实体之间的关系。
