@@ -13,6 +13,8 @@
 * 数据集
   * QuasarT: 
   > * Quasar: Datasets for question answering by search and reading. [Paper](https://arxiv.org/pdf/1707.03904.pdf)
+  > *  Quasar-S: The  QUASAR-S  dataset consists of37000 cloze-style (fill-in-the-gap) queriesconstructed  from  definitions  of  softwareentity  tags  on  the  popular  website  StackOverflow. 
+  > * The QUASAR-T dataset consists of 43000open-domain  trivia  questions  and  theiranswers  obtained  from  various  internetsources.
   * SearchQA: 
   > * SearchQA: A New Q&A Dataset Augmented with Context from a Search Engine. [Paper](https://arxiv.org/pdf/1704.05179.pdf)
   > * 140,461 question-answer pairs.
