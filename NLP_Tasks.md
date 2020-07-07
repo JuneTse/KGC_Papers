@@ -15,6 +15,7 @@
   > * Quasar: Datasets for question answering by search and reading. [Paper](https://arxiv.org/pdf/1707.03904.pdf)
   * SearchQA: 
   > * SearchQA: A New Q&A Dataset Augmented with Context from a Search Engine. [Paper](https://arxiv.org/pdf/1704.05179.pdf)
+  > * 140,461 question-answer pairs.
 
 * NewsQA
 * TriviaQA
