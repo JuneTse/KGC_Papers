@@ -10,6 +10,8 @@
   
  * RACE: ReAding Comprehension from Examinations (RACE)
  > * RACE: Large-scale ReAding Comprehension Dataset From Examinations. [Paper](https://arxiv.org/pdf/1704.04683.pdf)
+ > * more than 28,000 passages and nearly 100,000 questions
+ > * 阅读理解题，从中国初高中的英语考试中收集的数据。
 
 #### Open domain QA 阅读理解
 * 阅读文章，根据问题从段落里面抽取答案，预测开始和结束位置
