@@ -8,6 +8,9 @@
   > * Cosmos QA: Machine reading comprehension with contextual commonsense reasoning. [Paper](https://arxiv.org/pdf/1909.00277.pdf)
   > * 阅读一段话，给定一个问题，从候选的答案中选择正确答案（阅读理解选择题）
   
+ * RACE: ReAding Comprehension from Examinations (RACE)
+ > * RACE: Large-scale ReAding Comprehension Dataset From Examinations. [Paper](https://arxiv.org/pdf/1704.04683.pdf)
+
 #### Open domain QA 阅读理解
 * 阅读文章，根据问题从段落里面抽取答案，预测开始和结束位置
 * 数据集
