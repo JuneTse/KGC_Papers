@@ -59,8 +59,8 @@
   > * Papers: ERNIE_Tsinghua, KEPLER, ...
   
   * FewRel 2.0
-  > *  [Paper](https://www.aclweb.org/anthology/P16-1145.pdf)
-  
+  > * FewRel 2.0: Towards More Challenging Few-Shot Relation Classification. ALC2019. [Paper](https://www.aclweb.org/anthology/P16-1145.pdf)
+  > * Papers: KEPLER
 
 
 
