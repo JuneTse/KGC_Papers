@@ -69,6 +69,7 @@
 * 数据集
   * Open Entity:
   > * Ultra-fine entity typing. [Paper](https://arxiv.org/pdf/1807.04905v1.pdf)
+  > * Papers: ERNIE_Tsinghua, KnowBERT, KEPLER, ...
     
   
   * FIGER: 
