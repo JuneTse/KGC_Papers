@@ -50,6 +50,16 @@
   * TACRED
   > * Position-aware Attention and Supervised Data Improve Slot Filling. [Paper](https://www.aclweb.org/anthology/D17-1004.pdf)
   > * 42个关系，106,264个句子
+  > * Papers: ERNIE_Tsinghua, KEPLER, K-Adapter ...
+  
+  * FewRel
+  > * FewRel: A Large-Scale Supervised Few-Shot Relation ClassificationDataset with State-of-the-Art Evaluation. [Paper](https://www.aclweb.org/anthology/D18-1514.pdf)
+  > * few-shot 关系分类数据集
+  > * 100 relations, 70,000 instances.
+  > * Papers: ERNIE_Tsinghua, KEPLER, ...
+  
+  * FewRel 2.0
+  > *  [Paper](https://www.aclweb.org/anthology/P16-1145.pdf)
   
 
 
