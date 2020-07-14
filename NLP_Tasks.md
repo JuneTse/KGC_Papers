@@ -26,8 +26,13 @@
 
 * NewsQA
 * TriviaQA
+  > * 92.85%的答案是Wikipedia中的实体
+  > * 
 * HotpotQA
 * NaturalQA
+
+#### KBQA
+* WebQuestions
 
 ### Probing
 * 数据集
