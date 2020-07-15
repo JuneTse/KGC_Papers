@@ -9,6 +9,7 @@
 * GTR-LSTM: A Triple Encoder for Sentence Generation from RDF Data, ACL2018, [Paper](https://www.aclweb.org/anthology/P18-1151.pdf)
 * Creating Training Corpora for NLG Micro-Planning, ACL2017,[Paper](https://www.aclweb.org/anthology/P17-1017.pdf)
 * Bridging the structural Gap Between Encoding and Decoding for Data-To-Text Generation, ACL2020, [Paper](https://www.aclweb.org/anthology/2020.acl-main.224.pdf), [Code](https://github.com/zhaochaocs/DualEnc)
+* Deep Graph Convolutional Encoders for Structured Data to Text Generation, ACL2018, [Paper](https://www.aclweb.org/anthology/W18-6501.pdf)
 * 
 
 ### Knowledge-Text数据集
