@@ -10,7 +10,7 @@
   * commonsenseQA
   > * COMMONSENSEQA: A Question Answering Challenge TargetingCommonsense Knowledge. [Paper](https://www.aclweb.org/anthology/N19-1421.pdf), [Dataset](https://www.tau-nlp.org/commonsenseqa), [Codes](https://github.com/jonathanherzig/commonsenseqa)
   > * 基于ConceptNet构建
-  > *12,247个问题
+  > * 12,247个问题
   
  * RACE: ReAding Comprehension from Examinations (RACE)
  > * RACE: Large-scale ReAding Comprehension Dataset From Examinations. [Paper](https://arxiv.org/pdf/1704.04683.pdf)
