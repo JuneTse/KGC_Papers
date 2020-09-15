@@ -1,11 +1,11 @@
 
-### Trans
+## Trans
 
 ## Bilinear
 
 * TuckER: Tensor Factorization for Knowledge Graph Completion. [Paper](https://arxiv.org/pdf/1901.09590.pdf)
 
-### Review
+## Review
 
 * You CAN Teach an Old Dog New Tricks! On Training Knowledge Graph Embeddings [Paper](https://openreview.net/forum?id=BkxSmlBFvr)
   * 对比了不同训练策略对各种模型的影响
