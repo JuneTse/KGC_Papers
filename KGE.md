@@ -1,7 +1,9 @@
 
 ### Trans
 
+## Bilinear
 
+* TuckER: Tensor Factorization for Knowledge Graph Completion. [Paper](https://arxiv.org/pdf/1901.09590.pdf)
 
 ### Review
 
