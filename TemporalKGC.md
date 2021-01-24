@@ -7,3 +7,5 @@
 * T-GAP: Learning to Walk across Time for Temporal Knowledge Graph Completion. [Paper](https://arxiv.org/abs/2012.10595)
 
 * Learning Sequence Encoders for Temporal Knowledge Graph Completion. EMNLP 2018. [Paper](https://www.aclweb.org/anthology/D18-1516/)
+
+* TeRo: A Time-aware Knowledge Graph Embedding via Temporal Rotation. COLING 2020.[Paper](https://www.aclweb.org/anthology/2020.coling-main.139/)
